@@ -35,6 +35,8 @@ This project is a **Python-based coffee machine simulator** that allows users to
    - Drink preparation
 - Improves readability, reusability, and maintainability
 
+---
+
 ## How It Works
 1. The user selects a drink (espresso/latte/cappuccino).
 2. The machine checks if enough ingredients are available.
